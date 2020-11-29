@@ -26,8 +26,3 @@ Revise the program in Part I to use a pointer instead of an integer to keep trac
 
 in the array. Name the new C program as palindP.c .
 
-Question:
-
-1) Put the source code of palind.c and palindP.c in your answer sheet.
-
-
