@@ -30,6 +30,4 @@ Question:
 
 1) Put the source code of palind.c and palindP.c in your answer sheet.
 
-2) In your answer sheet, please also attach screenshots of the outputs (note: you can
 
-type any messages you like).
